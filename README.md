@@ -2,6 +2,7 @@
 
 ![PhantomGod Logo](https://get.wallhere.com/photo/1600x1200-px-ART-artistic-artwork-creepy-dark-evil-fantasy-Halloween-horror-original-psychedelic-scary-spooky-1616593.jpg)
 
+Go to [12K](https://github.com/12kdied/Asa/blob/main/content_explanation.md)
 
 Asa is a malware created in C++ language, this malware has the function of breaking the computer of the person who installs Asa
 
