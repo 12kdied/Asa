@@ -1,6 +1,7 @@
 # Asa
 
 ![PhantomGod Logo](https://get.wallhere.com/photo/1600x1200-px-ART-artistic-artwork-creepy-dark-evil-fantasy-Halloween-horror-original-psychedelic-scary-spooky-1616593.jpg)
+![PhantomGod Logo](https://www.veed.io/view/es-ES/63ff1f62-f1f8-49b6-a40c-c645d5e1402a?panel=)
 
 Go to [Explication](https://github.com/12kdied/Asa/blob/main/content_explanation.md)
 
